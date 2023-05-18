@@ -1,0 +1,6 @@
+
+rootProject.name = 'SpringCleanArch'
+include 'app'
+include 'domain'
+include 'data'
+
